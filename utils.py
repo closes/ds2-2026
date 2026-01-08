@@ -3,7 +3,7 @@ Way of using this:
 
     import os, sys, urllib, tempfile
     with tempfile.TemporaryDirectory() as tmpdirname:
-        urllib.request.urlretrieve("https://raw.githubusercontent.com/obidam/ds2-2025/main/utils.py",
+        urllib.request.urlretrieve("https://raw.githubusercontent.com/obidam/ds2-2026/main/utils.py",
                                    os.path.join(tmpdirname, "utils.py"))
         sys.path.append(tmpdirname)
         from utils import check_up_env
@@ -39,7 +39,7 @@ def check_up_env(with_tuto=False):
     if with_tuto:
         with tempfile.TemporaryDirectory() as tmpdirname:
             sys.path.append(tmpdirname)
-            repo = "https://raw.githubusercontent.com/obidam/ds2-2025/main/"
+            repo = "https://raw.githubusercontent.com/obidam/ds2-2026/main/"
             urllib.request.urlretrieve(os.path.join(repo, "practice/exploratory_statistics/tuto_tools.py"),
                                        os.path.join(tmpdirname, "tuto_tools.py"))
             import tuto_tools as ds2tools
@@ -66,7 +66,7 @@ def check_up_env(with_tuto=False):
         warnings.warn("\nRunning on a Binder instance\nBe aware that your changes won't be saved")
 
     else:
-        warnings.warn("\nRunning on your own environment\nMake sure to have all necessary packages installed\nSee:   https://github.com/obidam/ds2-2025/blob/main/practice/environment/coiled/environment-coiled-pinned-binder.yml")
+        warnings.warn("\nRunning on your own environment\nMake sure to have all necessary packages installed\nSee:   https://github.com/obidam/ds2-2026/blob/main/practice/environment/coiled/environment-coiled-pinned.yml")
 
     if with_tuto:
         return ds2tools
