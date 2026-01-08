@@ -66,7 +66,7 @@ def check_up_env(with_tuto=False):
         warnings.warn("\nRunning on a Binder instance\nBe aware that your changes won't be saved")
 
     else:
-        warnings.warn("\nRunning on your own environment\nMake sure to have all necessary packages installed\nSee:   https://github.com/obidam/ds2-2026/blob/main/practice/environment/coiled/environment-coiled-pinned.yml")
+        warnings.warn("\nRunning on your own environment\nMake sure to have all necessary packages installed\nSee:   https://github.com/obidam/ds2-2026/blob/main/practice/environment/coiled/environment-coiled-pinnedq.yml")
 
     if with_tuto:
         return ds2tools
