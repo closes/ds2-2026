@@ -6,9 +6,9 @@ Home of the 2026 ISblue Big Data & Cloud Computing for Oceanography class (IMT-A
 - Sally Close - sally.close @ univ-brest.fr
 - Guillaume Maze - Guillaume.Maze @ ifremer.fr
 - Carlos Granero Belinchon - carlos.granero-belinchon @ imt-atlantique.fr
-- Yvon Kermarrec - yvon.kermarrec@imt-atlantique.fr
-- Tristan Le Toullec - tristan.le.toullec@ifremer.fr
-- Perrine Bauchot - perrine.bauchot@imt-atlantique.fr
+- Yvon Kermarrec - yvon.kermarrec @ imt-atlantique.fr
+- Tristan Le Toullec - tristan.le.toullec @ ifremer.fr
+- Perrine Bauchot - perrine.bauchot @ imt-atlantique.fr
 - Emilio Gonzalez - emilio.gonzalez-zamora@imt-atlantique.fr
 
 This repo is a placeholder for the class practice session and for projects developed by students.
