@@ -20,7 +20,7 @@ https://github.com/obidam/ds2-2026/blob/main/projects/help/P5-OceanWarming-for-s
 ### Project 6: Ocean thermal and haline change contributions to Sea Level trends
  
 Get all the details and a starter notebook here:
-https://github.com/obidam/ds2-2026/blob/main/projects/help/P6-OceanWarmingSeaLevel-for-students.ipynb
+https://github.com/obidam/ds2-2026/blob/main/projects/help/P6-SeaLevelRiseStericContributions-for-students.ipynb
 
 ## Project 7: Future Arctic sea ice change
 
